@@ -19,8 +19,11 @@ andrewsp33@hotmail.com
 https://github.com/DrAndrewSpiers
 Department of Mathematical Sciences, University of Nottingham.
 18/01/2024
+Teukolsky-equation-source-decomposer.nb provides an example for decomposing the source of the Teukolsky equation using the half-Held formalism.
+Held-formalism.nb is provided for those interested in the full Held formalism. They are both only consistent in the Kinnersley tetrad.
 
-Notebook created in Mathematica 13.2
+
+Notebooks created in Mathematica 13.2
 
 
 ####  Citation guide
