@@ -1,4 +1,6 @@
 # Teukolsky-equation-source-decomposer
+
+Notebook for decomposing the source of the Teukolsky equation analytically. The notebook sets up the Held formalism.
  
 Notebook adapted and built on from "The N.P. and G.H.P. formalisms."  Alfonso García-Parrado Gómez-Lobo, Universidade do Minho, Portugal, September 2009, http://www.xact.es/Documentation/English/PublicNPGHP.nb.  
 The specific parts of this notebook which were adapted from "The N.P. and G.H.P. formalisms." are the "Newman Penrose Formalism" (apart from the Teukolsky derivation sections) and "GHP Formalism" chapters in the "Set up Notebook" section. The rest of this notebook was created by the author, Andrew Spiers.
